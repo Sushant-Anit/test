@@ -14,7 +14,7 @@
 <nav class="navbar navbar-inverse navbar-fixed-top">
   <div class="container">
 	<div class="navbar-header">
-		<a class="navbar-brand" href="#">Sushant test project</a>
+		<a class="navbar-brand" href="#">Schecking github </a>
 	</div>
   </div>
 </nav>
